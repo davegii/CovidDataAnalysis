@@ -1,0 +1,27 @@
+## Author
+
+- **Name:** Davy Ji
+- **Email:** davyji2@illinois.edu
+
+## Purpose
+
+- We are trying to analyze the correlations between the state and age group 
+corresponding with the different types of deaths.The Age input is dependant on State.
+The Death input shows what type of death will be output on the graph. The checkbox
+"Find Cost of Deaths?" calculates the cost in dollars of the death, based on the
+amount that the US Government values a life ($10,041,645).
+
+
+## Data
+
+- **Obtained From:** CDC https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Sex-and-Age/9bhg-hcku
+- **Variables We Are Using:** Start_Date, States, Age_Group, COVID19_Deaths, Total_Deaths, 
+Pneumonia_Deaths, Influenza_Deaths
+
+- We will be using the above dataset from the CDC as well as analyze the variables listed above.
+
+## References
+
+- **CDC Dataset:** https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Sex-and-Age/9bhg-hcku
+- **STAT 385 /// Shiny App Tutorial: Powerlifting App:**  https://www.youtube.com/watch?v=8H_pMuN6WJU&list=PLBgxzZMu3GpPb35BDIU5eeopR4MhBOZw_
+
